@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @P-crypto
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning C++, R and Clojure
-- 💞️ I’m looking to collaborate on data analysis related projects, web-development and python projects.
+- 👋 Hi, I’m @devaul from Kenya.
+- 👀 I’m interested in full-stack development.
+- 🌱 I’m currently learning Next.js as I improve on my already good react.js
+- 💞️ The sky is just the beginning
 - 📫 How to reach me njigupaul22@gmail.com
 
 <!---
